@@ -45,6 +45,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=z-eus143&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=z-eus143&theme=radical" alt="GitHub Streak" align="right"/>
 </p>
+<br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=z-eus143&layout=compact&theme=radical" alt="Top Languages" />
 
 ---
